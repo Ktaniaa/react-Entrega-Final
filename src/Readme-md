@@ -1,0 +1,4 @@
+Mi proyecto es un ecommerce divido en secciones por categoria y un Home con todos los productos.
+El objetivo final es que el usuario agregue productos , los mismos vayan al cart y luego se finalice la compre cargando los datos de este.
+Inclui como dependecias extras sweetalert (para darle un mejor estilo a los alert), firebase (para manejar los articulos y ordenes de la tienda) y react-router-dom para
+llevar al usuario por los distintos sitios de navegacion a traves de <Routes>.

@@ -1,0 +1,28 @@
+.productCardCSS div{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    margin: 5% 20% 0% 20%;
+}
+
+.productCardCSS ul{
+    text-align: center;
+    color: black;
+    padding: 0rem 2rem 2rem 2rem;
+    margin: 0rem 0.5rem 2rem 0.5rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.productCardCSS ul li{
+    list-style-type: none;
+}
+
+
+.productCardCSS h2{
+    font-size: 1.2 rem;
+}
+.productCardCSS img{
+    width: 7rem;
+    height: 7rem;
+}

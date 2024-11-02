@@ -1,0 +1,32 @@
+.CardCSS{
+    color: black;
+    display: flex;
+    margin: 5% 20% 0% 20%;
+    
+}
+.CardCSS ul{
+    text-align: center;
+    padding: 0rem 2rem 2rem 2rem;
+    margin: 3rem 15rem 2rem 15rem;
+    border-width: 1px;
+    color: black;
+    border-style: solid;
+    border-color: black;
+}
+
+.CardCSS ul li{
+    list-style-type: none;
+}
+
+.CardCSS h2{
+    font-size: 1.2 rem;
+}
+.CardCSS img{
+    width: 7rem;
+    height: 7rem;
+}
+
+.cargaProd{
+    text-align: center;
+    margin-top: 20rem;
+}

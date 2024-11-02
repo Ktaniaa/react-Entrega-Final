@@ -1,0 +1,49 @@
+/* cart.css */
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+  
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 500px;
+    position: relative;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.modal-content input{
+    margin-left: 1rem ;
+}
+.modal-content button{
+    margin: 1rem 0rem 0rem 1rem;
+}
+  
+.cartContent{
+    color: black;
+    list-style-type: none;
+    text-align: left;
+}
+
+.cartContent p{
+    text-align: left;
+}
+
+h3{
+    color: black;
+}
+input{
+    background-color: white;
+}
